@@ -1,0 +1,1447 @@
+{
+    "H": {
+        "protons": 1,
+        "neutrons": 0,
+        "electrons": [
+            1
+        ],
+        "name": "Hydrogen"
+    },
+    "He": {
+        "protons": 2,
+        "neutrons": 2,
+        "electrons": [
+            2
+        ],
+        "name": "Helium"
+    },
+    "Li": {
+        "protons": 3,
+        "neutrons": 4,
+        "electrons": [
+            2,
+            1
+        ],
+        "name": "Lithium"
+    },
+    "Be": {
+        "protons": 4,
+        "neutrons": 5,
+        "electrons": [
+            2,
+            2
+        ],
+        "name": "Beryllium"
+    },
+    "B": {
+        "protons": 5,
+        "neutrons": 6,
+        "electrons": [
+            2,
+            3
+        ],
+        "name": "Boron"
+    },
+    "C": {
+        "protons": 6,
+        "neutrons": 6,
+        "electrons": [
+            2,
+            4
+        ],
+        "name": "Carbon"
+    },
+    "N": {
+        "protons": 7,
+        "neutrons": 7,
+        "electrons": [
+            2,
+            5
+        ],
+        "name": "Nitrogen"
+    },
+    "O": {
+        "protons": 8,
+        "neutrons": 8,
+        "electrons": [
+            2,
+            6
+        ],
+        "name": "Oxygen"
+    },
+    "F": {
+        "protons": 9,
+        "neutrons": 10,
+        "electrons": [
+            2,
+            7
+        ],
+        "name": "Fluorine"
+    },
+    "Ne": {
+        "protons": 10,
+        "neutrons": 10,
+        "electrons": [
+            2,
+            8
+        ],
+        "name": "Neon"
+    },
+    "Na": {
+        "protons": 11,
+        "neutrons": 12,
+        "electrons": [
+            2,
+            8,
+            1
+        ],
+        "name": "Sodium"
+    },
+    "Mg": {
+        "protons": 12,
+        "neutrons": 12,
+        "electrons": [
+            2,
+            8,
+            2
+        ],
+        "name": "Magnesium"
+    },
+    "Al": {
+        "protons": 13,
+        "neutrons": 14,
+        "electrons": [
+            2,
+            8,
+            3
+        ],
+        "name": "Aluminium"
+    },
+    "Si": {
+        "protons": 14,
+        "neutrons": 14,
+        "electrons": [
+            2,
+            8,
+            4
+        ],
+        "name": "Silicon"
+    },
+    "P": {
+        "protons": 15,
+        "neutrons": 16,
+        "electrons": [
+            2,
+            8,
+            5
+        ],
+        "name": "Phosphorus"
+    },
+    "S": {
+        "protons": 16,
+        "neutrons": 16,
+        "electrons": [
+            2,
+            8,
+            6
+        ],
+        "name": "Sulfur"
+    },
+    "Cl": {
+        "protons": 17,
+        "neutrons": 18,
+        "electrons": [
+            2,
+            8,
+            7
+        ],
+        "name": "Chlorine"
+    },
+    "Ar": {
+        "protons": 18,
+        "neutrons": 22,
+        "electrons": [
+            2,
+            8,
+            8
+        ],
+        "name": "Argon"
+    },
+    "K": {
+        "protons": 19,
+        "neutrons": 20,
+        "electrons": [
+            2,
+            8,
+            8,
+            1
+        ],
+        "name": "Potassium"
+    },
+    "Ca": {
+        "protons": 20,
+        "neutrons": 20,
+        "electrons": [
+            2,
+            8,
+            8,
+            2
+        ],
+        "name": "Calcium"
+    },
+    "Sc": {
+        "protons": 21,
+        "neutrons": 24,
+        "electrons": [
+            2,
+            8,
+            9,
+            2
+        ],
+        "name": "Scandium"
+    },
+    "Ti": {
+        "protons": 22,
+        "neutrons": 26,
+        "electrons": [
+            2,
+            8,
+            10,
+            2
+        ],
+        "name": "Titanium"
+    },
+    "V": {
+        "protons": 23,
+        "neutrons": 28,
+        "electrons": [
+            2,
+            8,
+            11,
+            2
+        ],
+        "name": "Vanadium"
+    },
+    "Cr": {
+        "protons": 24,
+        "neutrons": 28,
+        "electrons": [
+            2,
+            8,
+            13,
+            1
+        ],
+        "name": "Chromium"
+    },
+    "Mn": {
+        "protons": 25,
+        "neutrons": 30,
+        "electrons": [
+            2,
+            8,
+            13,
+            2
+        ],
+        "name": "Manganese"
+    },
+    "Fe": {
+        "protons": 26,
+        "neutrons": 30,
+        "electrons": [
+            2,
+            8,
+            14,
+            2
+        ],
+        "name": "Iron"
+    },
+    "Co": {
+        "protons": 27,
+        "neutrons": 32,
+        "electrons": [
+            2,
+            8,
+            15,
+            2
+        ],
+        "name": "Cobalt"
+    },
+    "Ni": {
+        "protons": 28,
+        "neutrons": 31,
+        "electrons": [
+            2,
+            8,
+            16,
+            2
+        ],
+        "name": "Nickel"
+    },
+    "Cu": {
+        "protons": 29,
+        "neutrons": 35,
+        "electrons": [
+            2,
+            8,
+            18,
+            1
+        ],
+        "name": "Copper"
+    },
+    "Zn": {
+        "protons": 30,
+        "neutrons": 35,
+        "electrons": [
+            2,
+            8,
+            18,
+            2
+        ],
+        "name": "Zinc"
+    },
+    "Ga": {
+        "protons": 31,
+        "neutrons": 39,
+        "electrons": [
+            2,
+            8,
+            18,
+            3
+        ],
+        "name": "Gallium"
+    },
+    "Ge": {
+        "protons": 32,
+        "neutrons": 41,
+        "electrons": [
+            2,
+            8,
+            18,
+            4
+        ],
+        "name": "Germanium"
+    },
+    "As": {
+        "protons": 33,
+        "neutrons": 42,
+        "electrons": [
+            2,
+            8,
+            18,
+            5
+        ],
+        "name": "Arsenic"
+    },
+    "Se": {
+        "protons": 34,
+        "neutrons": 45,
+        "electrons": [
+            2,
+            8,
+            18,
+            6
+        ],
+        "name": "Selenium"
+    },
+    "Br": {
+        "protons": 35,
+        "neutrons": 45,
+        "electrons": [
+            2,
+            8,
+            18,
+            7
+        ],
+        "name": "Bromine"
+    },
+    "Kr": {
+        "protons": 36,
+        "neutrons": 48,
+        "electrons": [
+            2,
+            8,
+            18,
+            8
+        ],
+        "name": "Krypton"
+    },
+    "Rb": {
+        "protons": 37,
+        "neutrons": 48,
+        "electrons": [
+            2,
+            8,
+            18,
+            8,
+            1
+        ],
+        "name": "Rubidium"
+    },
+    "Sr": {
+        "protons": 38,
+        "neutrons": 50,
+        "electrons": [
+            2,
+            8,
+            18,
+            8,
+            2
+        ],
+        "name": "Strontium"
+    },
+    "Y": {
+        "protons": 39,
+        "neutrons": 50,
+        "electrons": [
+            2,
+            8,
+            18,
+            9,
+            2
+        ],
+        "name": "Yttrium"
+    },
+    "Zr": {
+        "protons": 40,
+        "neutrons": 51,
+        "electrons": [
+            2,
+            8,
+            18,
+            10,
+            2
+        ],
+        "name": "Zirconium"
+    },
+    "Nb": {
+        "protons": 41,
+        "neutrons": 52,
+        "electrons": [
+            2,
+            8,
+            18,
+            12,
+            1
+        ],
+        "name": "Niobium"
+    },
+    "Mo": {
+        "protons": 42,
+        "neutrons": 54,
+        "electrons": [
+            2,
+            8,
+            18,
+            13,
+            1
+        ],
+        "name": "Molybdenum"
+    },
+    "Tc": {
+        "protons": 43,
+        "neutrons": 55,
+        "electrons": [
+            2,
+            8,
+            18,
+            13,
+            2
+        ],
+        "name": "Technetium"
+    },
+    "Ru": {
+        "protons": 44,
+        "neutrons": 57,
+        "electrons": [
+            2,
+            8,
+            18,
+            15,
+            1
+        ],
+        "name": "Ruthenium"
+    },
+    "Rh": {
+        "protons": 45,
+        "neutrons": 58,
+        "electrons": [
+            2,
+            8,
+            18,
+            16,
+            1
+        ],
+        "name": "Rhodium"
+    },
+    "Pd": {
+        "protons": 46,
+        "neutrons": 60,
+        "electrons": [
+            2,
+            8,
+            18,
+            18
+        ],
+        "name": "Palladium"
+    },
+    "Ag": {
+        "protons": 47,
+        "neutrons": 61,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            1
+        ],
+        "name": "Silver"
+    },
+    "Cd": {
+        "protons": 48,
+        "neutrons": 64,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            2
+        ],
+        "name": "Cadmium"
+    },
+    "In": {
+        "protons": 49,
+        "neutrons": 66,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            3
+        ],
+        "name": "Indium"
+    },
+    "Sn": {
+        "protons": 50,
+        "neutrons": 69,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            4
+        ],
+        "name": "Tin"
+    },
+    "Sb": {
+        "protons": 51,
+        "neutrons": 71,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            5
+        ],
+        "name": "Antimony"
+    },
+    "Te": {
+        "protons": 52,
+        "neutrons": 76,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            6
+        ],
+        "name": "Tellurium"
+    },
+    "I": {
+        "protons": 53,
+        "neutrons": 74,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            7
+        ],
+        "name": "Iodine"
+    },
+    "Xe": {
+        "protons": 54,
+        "neutrons": 77,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8
+        ],
+        "name": "Xenon"
+    },
+    "Cs": {
+        "protons": 55,
+        "neutrons": 78,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8,
+            1
+        ],
+        "name": "Caesium"
+    },
+    "Ba": {
+        "protons": 56,
+        "neutrons": 81,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            8,
+            2
+        ],
+        "name": "Barium"
+    },
+    "La": {
+        "protons": 57,
+        "neutrons": 82,
+        "electrons": [
+            2,
+            8,
+            18,
+            18,
+            9,
+            2
+        ],
+        "name": "Lanthanum"
+    },
+    "Ce": {
+        "protons": 58,
+        "neutrons": 82,
+        "electrons": [
+            2,
+            8,
+            18,
+            19,
+            9,
+            2
+        ],
+        "name": "Cerium"
+    },
+    "Pr": {
+        "protons": 59,
+        "neutrons": 82,
+        "electrons": [
+            2,
+            8,
+            18,
+            21,
+            8,
+            2
+        ],
+        "name": "Praseodymium"
+    },
+    "Nd": {
+        "protons": 60,
+        "neutrons": 84,
+        "electrons": [
+            2,
+            8,
+            18,
+            22,
+            8,
+            2
+        ],
+        "name": "Neodymium"
+    },
+    "Pm": {
+        "protons": 61,
+        "neutrons": 84,
+        "electrons": [
+            2,
+            8,
+            18,
+            23,
+            8,
+            2
+        ],
+        "name": "Promethium"
+    },
+    "Sm": {
+        "protons": 62,
+        "neutrons": 88,
+        "electrons": [
+            2,
+            8,
+            18,
+            24,
+            8,
+            2
+        ],
+        "name": "Samarium"
+    },
+    "Eu": {
+        "protons": 63,
+        "neutrons": 89,
+        "electrons": [
+            2,
+            8,
+            18,
+            25,
+            8,
+            2
+        ],
+        "name": "Europium"
+    },
+    "Gd": {
+        "protons": 64,
+        "neutrons": 93,
+        "electrons": [
+            2,
+            8,
+            18,
+            25,
+            9,
+            2
+        ],
+        "name": "Gadolinium"
+    },
+    "Tb": {
+        "protons": 65,
+        "neutrons": 94,
+        "electrons": [
+            2,
+            8,
+            18,
+            27,
+            8,
+            2
+        ],
+        "name": "Terbium"
+    },
+    "Dy": {
+        "protons": 66,
+        "neutrons": 97,
+        "electrons": [
+            2,
+            8,
+            18,
+            28,
+            8,
+            2
+        ],
+        "name": "Dysprosium"
+    },
+    "Ho": {
+        "protons": 67,
+        "neutrons": 98,
+        "electrons": [
+            2,
+            8,
+            18,
+            29,
+            8,
+            2
+        ],
+        "name": "Holmium"
+    },
+    "Er": {
+        "protons": 68,
+        "neutrons": 99,
+        "electrons": [
+            2,
+            8,
+            18,
+            30,
+            8,
+            2
+        ],
+        "name": "Erbium"
+    },
+    "Tm": {
+        "protons": 69,
+        "neutrons": 100,
+        "electrons": [
+            2,
+            8,
+            18,
+            31,
+            8,
+            2
+        ],
+        "name": "Thulium"
+    },
+    "Yb": {
+        "protons": 70,
+        "neutrons": 103,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            8,
+            2
+        ],
+        "name": "Ytterbium"
+    },
+    "Lu": {
+        "protons": 71,
+        "neutrons": 104,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            9,
+            2
+        ],
+        "name": "Lutetium"
+    },
+    "Hf": {
+        "protons": 72,
+        "neutrons": 106,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            10,
+            2
+        ],
+        "name": "Hafnium"
+    },
+    "Ta": {
+        "protons": 73,
+        "neutrons": 108,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            11,
+            2
+        ],
+        "name": "Tantalum"
+    },
+    "W": {
+        "protons": 74,
+        "neutrons": 110,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            12,
+            2
+        ],
+        "name": "Tungsten"
+    },
+    "Re": {
+        "protons": 75,
+        "neutrons": 111,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            13,
+            2
+        ],
+        "name": "Rhenium"
+    },
+    "Os": {
+        "protons": 76,
+        "neutrons": 114,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            14,
+            2
+        ],
+        "name": "Osmium"
+    },
+    "Ir": {
+        "protons": 77,
+        "neutrons": 115,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            15,
+            2
+        ],
+        "name": "Iridium"
+    },
+    "Pt": {
+        "protons": 78,
+        "neutrons": 117,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            17,
+            1
+        ],
+        "name": "Platinum"
+    },
+    "Au": {
+        "protons": 79,
+        "neutrons": 118,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            1
+        ],
+        "name": "Gold"
+    },
+    "Hg": {
+        "protons": 80,
+        "neutrons": 121,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            2
+        ],
+        "name": "Mercury"
+    },
+    "Tl": {
+        "protons": 81,
+        "neutrons": 123,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            3
+        ],
+        "name": "Thallium"
+    },
+    "Pb": {
+        "protons": 82,
+        "neutrons": 125,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            4
+        ],
+        "name": "Lead"
+    },
+    "Bi": {
+        "protons": 83,
+        "neutrons": 126,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            5
+        ],
+        "name": "Bismuth"
+    },
+    "Po": {
+        "protons": 84,
+        "neutrons": 125,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            6
+        ],
+        "name": "Polonium"
+    },
+    "At": {
+        "protons": 85,
+        "neutrons": 125,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            7
+        ],
+        "name": "Astatine"
+    },
+    "Rn": {
+        "protons": 86,
+        "neutrons": 136,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8
+        ],
+        "name": "Radon"
+    },
+    "Fr": {
+        "protons": 87,
+        "neutrons": 136,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            1
+        ],
+        "name": "Francium"
+    },
+    "Ra": {
+        "protons": 88,
+        "neutrons": 138,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+        ],
+        "name": "Radium"
+    },
+    "Ac": {
+        "protons": 89,
+        "neutrons": 138,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            9,
+            2
+        ],
+        "name": "Actinium"
+    },
+    "Th": {
+        "protons": 90,
+        "neutrons": 142,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            18,
+            10,
+            2
+        ],
+        "name": "Thorium"
+    },
+    "Pa": {
+        "protons": 91,
+        "neutrons": 140,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            20,
+            9,
+            2
+        ],
+        "name": "Protactinium"
+    },
+    "U": {
+        "protons": 92,
+        "neutrons": 146,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            21,
+            9,
+            2
+        ],
+        "name": "Uranium"
+    },
+    "Np": {
+        "protons": 93,
+        "neutrons": 144,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            22,
+            9,
+            2
+        ],
+        "name": "Neptunium"
+    },
+    "Pu": {
+        "protons": 94,
+        "neutrons": 150,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            24,
+            8,
+            2
+        ],
+        "name": "Plutonium"
+    },
+    "Am": {
+        "protons": 95,
+        "neutrons": 148,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            25,
+            8,
+            2
+        ],
+        "name": "Americium"
+    },
+    "Cm": {
+        "protons": 96,
+        "neutrons": 151,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            25,
+            9,
+            2
+        ],
+        "name": "Curium"
+    },
+    "Bk": {
+        "protons": 97,
+        "neutrons": 150,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            27,
+            8,
+            2
+        ],
+        "name": "Berkelium"
+    },
+    "Cf": {
+        "protons": 98,
+        "neutrons": 153,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            28,
+            8,
+            2
+        ],
+        "name": "Californium"
+    },
+    "Es": {
+        "protons": 99,
+        "neutrons": 153,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            29,
+            8,
+            2
+        ],
+        "name": "Einsteinium"
+    },
+    "Fm": {
+        "protons": 100,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            30,
+            8,
+            2
+        ],
+        "name": "Fermium"
+    },
+    "Md": {
+        "protons": 101,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            31,
+            8,
+            2
+        ],
+        "name": "Mendelevium"
+    },
+    "No": {
+        "protons": 102,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            2
+        ],
+        "name": "Nobelium"
+    },
+    "Lr": {
+        "protons": 103,
+        "neutrons": 159,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            9,
+            2
+        ],
+        "name": "Lawrencium"
+    },
+    "Rf": {
+        "protons": 104,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            10,
+            2
+        ],
+        "name": "Rutherfordium"
+    },
+    "Db": {
+        "protons": 105,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            11,
+            2
+        ],
+        "name": "Dubnium"
+    },
+    "Sg": {
+        "protons": 106,
+        "neutrons": 161,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            12,
+            2
+        ],
+        "name": "Seaborgium"
+    },
+    "Bh": {
+        "protons": 107,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            13,
+            2
+        ],
+        "name": "Bohrium"
+    },
+    "Hs": {
+        "protons": 108,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            14,
+            2
+        ],
+        "name": "Hassium"
+    },
+    "Mt": {
+        "protons": 109,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            15,
+            2
+        ],
+        "name": "Meitnerium"
+    },
+    "Ds": {
+        "protons": 110,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            1
+        ],
+        "name": "Darmstadtium"
+    },
+    "Rg": {
+        "protons": 111,
+        "neutrons": 157,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            1
+        ],
+        "name": "Roentgenium"
+    },
+    "Cn": {
+        "protons": 112,
+        "neutrons": 173,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            2
+        ],
+        "name": "Copernicium"
+    },
+    "Nh": {
+        "protons": 113,
+        "neutrons": 173,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            3
+        ],
+        "name": "Nihonium"
+    },
+    "Fl": {
+        "protons": 114,
+        "neutrons": 175,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            4
+        ],
+        "name": "Flerovium"
+    },
+    "Mc": {
+        "protons": 115,
+        "neutrons": 176,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            5
+        ],
+        "name": "Moscovium"
+    },
+    "Lv": {
+        "protons": 116,
+        "neutrons": 177,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            6
+        ],
+        "name": "Livermorium"
+    },
+    "Ts": {
+        "protons": 117,
+        "neutrons": 177,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            7
+        ],
+        "name": "Tennessine"
+    },
+    "Og": {
+        "protons": 118,
+        "neutrons": 176,
+        "electrons": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            8
+        ],
+        "name": "Oganesson"
+    }
+}
